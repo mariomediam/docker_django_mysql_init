@@ -32,6 +32,6 @@ c0c3edfe3957   mysql:8             "docker-entrypoint.s…"   4 minutes ago   Up
 
 ```
 
-Después de que se inicie la aplicación, vaya a `http://localhost:8000` en su navegador web:
+Después de que se inicie la aplicación, vaya a `http://localhost:8085` en su navegador web.
 
 
